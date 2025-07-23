@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: task-tracker-cli
+Version: 0.1
+Summary: Una CLI simple para rastrear tareas desde la terminal usando JSON.
+Author: Juan Pablo Martínez
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-python
+Dynamic: summary
